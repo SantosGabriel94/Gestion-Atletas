@@ -22,7 +22,7 @@ public class ConsolaAtletas {
         ConexionBD.insertarDatosEjemplo();
 
         // 3. Iniciar el menú de atletas (por consola)
-        AtletaController controller = new AtletaController();
+       // AtletaController controller = new AtletaController();
         //.iniciar();
     }
 }

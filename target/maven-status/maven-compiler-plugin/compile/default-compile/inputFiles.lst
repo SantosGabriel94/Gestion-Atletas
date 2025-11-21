@@ -3,6 +3,12 @@ C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\at
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\Atleta.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\AtletaDAO.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\ConexionBD.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\Entrenador.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\EntrenadorDAO.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\Membresia.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\MembresiaDAO.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\PagoMensual.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\PagoMensualDAO.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\util\Validador.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\View\Atletas.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\View\AtletasFrame.java
