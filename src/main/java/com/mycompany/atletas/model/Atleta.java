@@ -26,11 +26,25 @@ public class Atleta {
     private String estado;
     private String esFederado;
 
-    public Atleta(int id, String nombre, String cedula, String direccion,
-                  String telefono, String correo, String fechaNacimiento,
-                  int idEntrenador, int idCategoria, String sexo,
-                  String lateralidad, String fechaIngresoAsociacion,
-                  String estado, String esFederado) {
+    // Constructor vacío (útil para algunas herramientas / frameworks)
+    public Atleta() {
+    }
+
+    // Constructor completo
+    public Atleta(int id,
+                  String nombre,
+                  String cedula,
+                  String direccion,
+                  String telefono,
+                  String correo,
+                  String fechaNacimiento,
+                  int idEntrenador,
+                  int idCategoria,
+                  String sexo,
+                  String lateralidad,
+                  String fechaIngresoAsociacion,
+                  String estado,
+                  String esFederado) {
 
         this.id = id;
         this.nombre = nombre;
@@ -48,21 +62,123 @@ public class Atleta {
         this.esFederado = esFederado;
     }
 
-    // Getters (por ahora solo los básicos; luego podemos generar todos)
-    public int getId() { return id; }
-    public String getNombre() { return nombre; }
-    public String getCedula() { return cedula; }
-    public String getDireccion() { return direccion; }
-    public String getTelefono() { return telefono; }
-    public String getCorreo() { return correo; }
-    public String getFechaNacimiento() { return fechaNacimiento; }
-    public int getIdEntrenador() { return idEntrenador; }
-    public int getIdCategoria() { return idCategoria; }
-    public String getSexo() { return sexo; }
-    public String getLateralidad() { return lateralidad; }
-    public String getFechaIngresoAsociacion() { return fechaIngresoAsociacion; }
-    public String getEstado() { return estado; }
-    public String getEsFederado() { return esFederado; }
+    // =========================
+    // GETTERS
+    // =========================
+    public int getId() {
+        return id;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getCedula() {
+        return cedula;
+    }
+
+    public String getDireccion() {
+        return direccion;
+    }
+
+    public String getTelefono() {
+        return telefono;
+    }
+
+    public String getCorreo() {
+        return correo;
+    }
+
+    public String getFechaNacimiento() {
+        return fechaNacimiento;
+    }
+
+    public int getIdEntrenador() {
+        return idEntrenador;
+    }
+
+    public int getIdCategoria() {
+        return idCategoria;
+    }
+
+    public String getSexo() {
+        return sexo;
+    }
+
+    public String getLateralidad() {
+        return lateralidad;
+    }
+
+    public String getFechaIngresoAsociacion() {
+        return fechaIngresoAsociacion;
+    }
+
+    public String getEstado() {
+        return estado;
+    }
+
+    public String getEsFederado() {
+        return esFederado;
+    }
+
+    // =========================
+    // SETTERS
+    // =========================
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setCedula(String cedula) {
+        this.cedula = cedula;
+    }
+
+    public void setDireccion(String direccion) {
+        this.direccion = direccion;
+    }
+
+    public void setTelefono(String telefono) {
+        this.telefono = telefono;
+    }
+
+    public void setCorreo(String correo) {
+        this.correo = correo;
+    }
+
+    public void setFechaNacimiento(String fechaNacimiento) {
+        this.fechaNacimiento = fechaNacimiento;
+    }
+
+    public void setIdEntrenador(int idEntrenador) {
+        this.idEntrenador = idEntrenador;
+    }
+
+    public void setIdCategoria(int idCategoria) {
+        this.idCategoria = idCategoria;
+    }
+
+    public void setSexo(String sexo) {
+        this.sexo = sexo;
+    }
+
+    public void setLateralidad(String lateralidad) {
+        this.lateralidad = lateralidad;
+    }
+
+    public void setFechaIngresoAsociacion(String fechaIngresoAsociacion) {
+        this.fechaIngresoAsociacion = fechaIngresoAsociacion;
+    }
+
+    public void setEstado(String estado) {
+        this.estado = estado;
+    }
+
+    public void setEsFederado(String esFederado) {
+        this.esFederado = esFederado;
+    }
 
     @Override
     public String toString() {

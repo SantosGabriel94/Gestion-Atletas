@@ -2,9 +2,14 @@ C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\at
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\controller\AtletaControllerPruebas.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\Atleta.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\AtletaDAO.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\AtletaService.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\Categoria.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\CategoriaDAO.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\CategoriaService.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\ConexionBD.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\Entrenador.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\EntrenadorDAO.java
+C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\EntrenadorService.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\Membresia.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\MembresiaDAO.java
 C:\Users\Admin\Documents\NetBeansProjects\Atletas\src\main\java\com\mycompany\atletas\model\PagoMensual.java
